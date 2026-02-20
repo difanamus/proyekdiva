@@ -1,0 +1,6 @@
+kivy==2.3.0
+kivymd==1.2.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+moviepy==1.0.3
+imageio-ffmpeg==0.4.9
